@@ -28,8 +28,18 @@
                             <li><a class="active" href="index.html"><span data-hover="Home">Home</span></a></li>
                             <li><a class="" href="about.html"><span data-hover="About">About</span></a></li>
                             <li><a href="product.html"><span data-hover="Product">Product</span></a></li>
-                            <li style="color: #1f1e1e">Email:roadstudXP@foxmail.com</li>
-                        </nav>
+                            <li style="color: #1f1e1e">
+                                <a href="mailto:roadstudXP@foxmail.com">
+                                    roadstudXP@foxmail.com
+                                </a>
+                            </li>
+                            <li style="color: #1f1e1e">
+                                <marquee width=50 behavior=scroll direction=left align=middle>
+                                    <a style="font-size: 20px;color:#ff9e30" href="mailto:roadstudXP@foxmail.com">
+                                        <i class="glyphicon glyphicon-envelope"></i>👈💪👌
+                                    </a>
+                                </marquee>
+                            </li>                        </nav>
                     </ul>
                 </div>
                 <div class="clearfix"></div>
@@ -360,6 +370,17 @@
         var s = document.getElementsByTagName("script")[0];
         s.parentNode.insertBefore(hm, s);
     })();
+    /**
+     * google 统计
+     * Google Analytics
+     */
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-102178737-1', 'auto');
+    ga('send', 'pageview');
 </script>
 </body>
 </html>
