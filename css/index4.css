@@ -3,6 +3,7 @@ body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
     background: #fff;
+    font-size: 16px;
 }
 
 body a {
@@ -712,4 +713,8 @@ ul.side-icons li a {
 .product .pro-img p{
     text-align: center;
     margin: 10px 0;
+}
+.iframe-heard{
+    width: 100%;
+    height: 8.8rem;
 }
