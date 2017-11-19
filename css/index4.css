@@ -730,6 +730,7 @@ ul.side-icons li a {
 
 .contact-us{
     width: 100%;
+    overflow: auto;
 }
 .contact-us-ul {
     display: flex;
