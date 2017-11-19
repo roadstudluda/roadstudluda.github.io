@@ -58,7 +58,6 @@
     $(document).ready(function () {
         var href = parent.location.href
         href = href.substring(href.lastIndexOf('/')+1,href.lastIndexOf('.'))
-        if (!href) return
         switch (href) {
             case 'index' :
                 $('.nav-text').eq(0).addClass('active')
@@ -73,7 +72,12 @@
                 $('.nav-text').eq(3).addClass('active')
                 break;
             default:
-                $('.nav-text').eq(3).addClass('active')
+                console.log(href.indexOf('p'))
+                if (href.indexOf('p') > -1) {
+                    $('.nav-text').eq(3).addClass('active')
+                } else {
+                    $('.nav-text').eq(0).addClass('active')
+                }
         }
         $("span.menu").click(function () {
             $(".top-menu").slideToggle("slow", function () {
