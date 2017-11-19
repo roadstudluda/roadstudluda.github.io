@@ -57,8 +57,8 @@
 <script>
     $(document).ready(function () {
         var href = parent.location.href
-        console.log(href)
         href = href.substring(href.lastIndexOf('/')+1,href.lastIndexOf('.'))
+        if (!href) return
         switch (href) {
             case 'index' :
                 $('.nav-text').eq(0).addClass('active')
