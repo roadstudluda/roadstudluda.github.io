@@ -2,10 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a401472-75b2-4bde-b095-236ff7937d2c" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/index4/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/index4/banner1.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/index4/banner2.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/index4/banner3.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/index4/banner4.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/index4/facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/index4/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/index4/p1-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/index4/p2-4-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/index4/p3-7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/index4/p4-12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/index4/p5-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/index4/p6-8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/index4/p7-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/index4/p8-9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/index4/twitter.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index4.css" afterPath="$PROJECT_DIR$/css/index4.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/product-com.css" afterPath="$PROJECT_DIR$/css/product-com.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news.html" afterPath="$PROJECT_DIR$/news.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p1-hot-sale.html" afterPath="$PROJECT_DIR$/p1-hot-sale.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p10-plastic-led-solar.html" afterPath="$PROJECT_DIR$/p10-plastic-led-solar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p11-frp-plastic-led.html" afterPath="$PROJECT_DIR$/p11-frp-plastic-led.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p12-frp-plastic-led.html" afterPath="$PROJECT_DIR$/p12-frp-plastic-led.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p13-solar-led-road - 副本.html" afterPath="$PROJECT_DIR$/p13-solar-led-road - 副本.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p13-solar-led-road.html" afterPath="$PROJECT_DIR$/p13-solar-led-road.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p2-360-degree.html" afterPath="$PROJECT_DIR$/p2-360-degree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p3-new-design-solar.html" afterPath="$PROJECT_DIR$/p3-new-design-solar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p4-solar-led-road.html" afterPath="$PROJECT_DIR$/p4-solar-led-road.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p5-round-shape.html" afterPath="$PROJECT_DIR$/p5-round-shape.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p6-tempered-glass.html" afterPath="$PROJECT_DIR$/p6-tempered-glass.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p7-solar-led-postlight.html" afterPath="$PROJECT_DIR$/p7-solar-led-postlight.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p8-solar-barricade-light.html" afterPath="$PROJECT_DIR$/p8-solar-barricade-light.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p9-aluminum-led-solar.html" afterPath="$PROJECT_DIR$/p9-aluminum-led-solar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/heard.html" afterPath="$PROJECT_DIR$/template/heard.html" />
     </list>
     <ignored path="roadstudluda.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,127 +58,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="19" selection-end-column="49" />
+            <state relative-caret-position="124">
+              <caret line="90" column="30" lean-forward="false" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.html">
+      <file leaf-file-name="index4.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/index4.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="49" lean-forward="false" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+            <state relative-caret-position="464">
+              <caret line="746" column="18" lean-forward="true" selection-start-line="746" selection-start-column="18" selection-end-line="746" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="heard.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/heard.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="79">
+              <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
               <folding>
-                <element signature="e#2307#2313#0" expanded="true" />
-                <element signature="e#2313#2319#0" expanded="true" />
-                <element signature="e#2319#2325#0" expanded="true" />
-                <element signature="e#2325#2331#0" expanded="true" />
-                <element signature="e#2400#2406#0" expanded="true" />
-                <element signature="e#2406#2412#0" expanded="true" />
-                <element signature="e#2412#2418#0" expanded="true" />
-                <element signature="e#2418#2424#0" expanded="true" />
-                <element signature="e#2592#2598#0" expanded="true" />
-                <element signature="e#2598#2604#0" expanded="true" />
-                <element signature="e#2604#2610#0" expanded="true" />
-                <element signature="e#2610#2616#0" expanded="true" />
-                <element signature="e#2916#2922#0" expanded="true" />
-                <element signature="e#2922#2928#0" expanded="true" />
-                <element signature="e#2928#2934#0" expanded="true" />
-                <element signature="e#2934#2940#0" expanded="true" />
-                <element signature="e#3318#3324#0" expanded="true" />
-                <element signature="e#3324#3330#0" expanded="true" />
-                <element signature="e#3330#3336#0" expanded="true" />
-                <element signature="e#3336#3342#0" expanded="true" />
-                <element signature="e#3652#3658#0" expanded="true" />
-                <element signature="e#3658#3664#0" expanded="true" />
-                <element signature="e#3664#3670#0" expanded="true" />
-                <element signature="e#3670#3676#0" expanded="true" />
-                <element signature="e#4089#4095#0" expanded="true" />
-                <element signature="e#4095#4101#0" expanded="true" />
-                <element signature="e#4101#4107#0" expanded="true" />
-                <element signature="e#4107#4113#0" expanded="true" />
-                <element signature="e#4396#4402#0" expanded="true" />
-                <element signature="e#4402#4408#0" expanded="true" />
-                <element signature="e#4408#4414#0" expanded="true" />
-                <element signature="e#4414#4420#0" expanded="true" />
-                <element signature="e#4723#4729#0" expanded="true" />
-                <element signature="e#4729#4735#0" expanded="true" />
-                <element signature="e#4735#4741#0" expanded="true" />
-                <element signature="e#4741#4747#0" expanded="true" />
-                <element signature="e#4965#4971#0" expanded="true" />
-                <element signature="e#4971#4977#0" expanded="true" />
-                <element signature="e#4977#4983#0" expanded="true" />
-                <element signature="e#4983#4989#0" expanded="true" />
-                <element signature="e#5171#5177#0" expanded="true" />
-                <element signature="e#5177#5183#0" expanded="true" />
-                <element signature="e#5183#5189#0" expanded="true" />
-                <element signature="e#5189#5195#0" expanded="true" />
-                <element signature="e#5364#5370#0" expanded="true" />
-                <element signature="e#5370#5376#0" expanded="true" />
-                <element signature="e#5376#5382#0" expanded="true" />
-                <element signature="e#5382#5388#0" expanded="true" />
-                <element signature="e#5691#5697#0" expanded="true" />
-                <element signature="e#5697#5703#0" expanded="true" />
-                <element signature="e#5703#5709#0" expanded="true" />
-                <element signature="e#5709#5715#0" expanded="true" />
-                <element signature="e#5865#5871#0" expanded="true" />
-                <element signature="e#5871#5877#0" expanded="true" />
-                <element signature="e#5877#5883#0" expanded="true" />
-                <element signature="e#5883#5889#0" expanded="true" />
-                <element signature="e#6194#6200#0" expanded="true" />
-                <element signature="e#6200#6206#0" expanded="true" />
-                <element signature="e#6206#6212#0" expanded="true" />
-                <element signature="e#6212#6218#0" expanded="true" />
-                <element signature="e#6615#6621#0" expanded="true" />
-                <element signature="e#6621#6627#0" expanded="true" />
-                <element signature="e#6627#6633#0" expanded="true" />
-                <element signature="e#6633#6639#0" expanded="true" />
-                <element signature="e#6940#6946#0" expanded="true" />
-                <element signature="e#6946#6952#0" expanded="true" />
-                <element signature="e#6952#6958#0" expanded="true" />
-                <element signature="e#6958#6964#0" expanded="true" />
-                <element signature="e#7174#7180#0" expanded="true" />
-                <element signature="e#7180#7186#0" expanded="true" />
-                <element signature="e#7186#7192#0" expanded="true" />
-                <element signature="e#7192#7198#0" expanded="true" />
-                <element signature="e#7313#7319#0" expanded="true" />
-                <element signature="e#7319#7325#0" expanded="true" />
-                <element signature="e#7325#7331#0" expanded="true" />
-                <element signature="e#7331#7337#0" expanded="true" />
+                <element signature="n#style#0;n#li#4;n#nav#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="news.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/news.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p5-round-shape.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p5-round-shape.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="banner1.jpeg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/index4/banner1.jpeg">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -159,6 +98,10 @@
       <find>index-1.html</find>
       <find>FUJIAN XP INDUSTRIAL CO.,LTD</find>
       <find>Round Shape Plastic LED</find>
+      <find>header-bottom</find>
+      <find>Why Choose Us</find>
+      <find>main-lift</find>
+      <find>contact-us</find>
     </findStrings>
     <replaceStrings>
       <replace>#3b4348</replace>
@@ -171,6 +114,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/product.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/news.html" />
+        <option value="$PROJECT_DIR$/template/heard.html" />
+        <option value="$PROJECT_DIR$/css/product-com.css" />
+        <option value="$PROJECT_DIR$/p8-solar-barricade-light.html" />
+        <option value="$PROJECT_DIR$/template/footer.html" />
         <option value="$PROJECT_DIR$/p1-hot-sale.html" />
         <option value="$PROJECT_DIR$/p2-360-degree.html" />
         <option value="$PROJECT_DIR$/p3-new-design-solar.html" />
@@ -178,18 +129,14 @@
         <option value="$PROJECT_DIR$/p5-round-shape.html" />
         <option value="$PROJECT_DIR$/p6-tempered-glass.html" />
         <option value="$PROJECT_DIR$/p7-solar-led-postlight.html" />
-        <option value="$PROJECT_DIR$/p8-solar-barricade-light.html" />
         <option value="$PROJECT_DIR$/p9-aluminum-led-solar.html" />
         <option value="$PROJECT_DIR$/p10-plastic-led-solar.html" />
         <option value="$PROJECT_DIR$/p11-frp-plastic-led.html" />
         <option value="$PROJECT_DIR$/p12-frp-plastic-led.html" />
         <option value="$PROJECT_DIR$/p13-solar-led-road.html" />
-        <option value="$PROJECT_DIR$/product.html" />
+        <option value="$PROJECT_DIR$/p13-solar-led-road - 副本.html" />
         <option value="$PROJECT_DIR$/css/index4.css" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/news.html" />
       </list>
     </option>
   </component>
@@ -206,10 +153,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="826" />
+    <option name="width" value="1280" />
+    <option name="height" value="726" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -229,8 +176,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -238,10 +183,22 @@
               <item name="roadstudluda.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="z-roads" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="roadstudluda.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="z-roads" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="roadstudluda.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="z-roads" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,6 +217,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img/index4" />
+      <recent name="$PROJECT_DIR$/template" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -359,26 +317,27 @@
       <workItem from="1508676516677" duration="438000" />
       <workItem from="1508766202789" duration="873000" />
       <workItem from="1509416970625" duration="387000" />
-      <workItem from="1510906071481" duration="121000" />
+      <workItem from="1510906071481" duration="410000" />
+      <workItem from="1511067172655" duration="4902000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6755000" />
+    <option name="totallyTimeSpent" value="11946000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="826" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="726" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24876674" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24861" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -399,49 +358,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/product.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2793">
-          <caret line="147" column="21" lean-forward="true" selection-start-line="147" selection-start-column="21" selection-end-line="147" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p6-tempered-glass.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p3-new-design-solar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p8-solar-barricade-light.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p9-aluminum-led-solar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/p11-frp-plastic-led.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -549,13 +465,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/lib/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5035">
-          <caret line="265" column="1" lean-forward="false" selection-start-line="265" selection-start-column="1" selection-end-line="265" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/p12_frp_plastic_led/s4.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -576,104 +485,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p1-hot-sale.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p2-360-degree.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="694">
-          <caret line="41" column="33" lean-forward="false" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p3-new-design-solar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="694">
-          <caret line="41" column="33" lean-forward="false" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p4-solar-led-road.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="694">
-          <caret line="41" column="33" lean-forward="false" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p6-tempered-glass.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p7-solar-led-postlight.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="41" column="18" lean-forward="false" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p10-plastic-led-solar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p12-frp-plastic-led.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/index4.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="714" column="19" lean-forward="true" selection-start-line="714" selection-start-column="19" selection-end-line="714" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p13-solar-led-road.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="41" column="18" lean-forward="false" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p11-frp-plastic-led.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p9-aluminum-led-solar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p8-solar-barricade-light.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="622">
@@ -688,10 +499,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/heard.html">
+    <entry file="file://$PROJECT_DIR$/img/index4/banner4.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        <state relative-caret-position="133">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -705,28 +522,15 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/index4/banner4.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/index4/banner1.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="19" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="49" lean-forward="false" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        <state relative-caret-position="280">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
           <folding>
             <element signature="e#2307#2313#0" expanded="true" />
             <element signature="e#2313#2319#0" expanded="true" />
@@ -808,18 +612,190 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p5-round-shape.html">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/embed.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        <state relative-caret-position="202">
+          <caret line="429" column="16" lean-forward="false" selection-start-line="429" selection-start-column="16" selection-end-line="429" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/news.html">
+    <entry file="file://$PROJECT_DIR$/css/lib/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        <state relative-caret-position="60">
+          <caret line="6299" column="1" lean-forward="false" selection-start-line="6299" selection-start-column="1" selection-end-line="6299" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/product-com.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="1327" column="9" lean-forward="false" selection-start-line="1327" selection-start-column="9" selection-end-line="1327" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="9" lean-forward="false" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p1-hot-sale.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="282" column="27" lean-forward="true" selection-start-line="282" selection-start-column="0" selection-end-line="283" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p2-360-degree.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="285" column="0" lean-forward="false" selection-start-line="285" selection-start-column="0" selection-end-line="285" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p3-new-design-solar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="283" column="0" lean-forward="false" selection-start-line="283" selection-start-column="0" selection-end-line="283" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p4-solar-led-road.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="287" column="0" lean-forward="false" selection-start-line="287" selection-start-column="0" selection-end-line="287" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p5-round-shape.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="284" column="0" lean-forward="false" selection-start-line="284" selection-start-column="0" selection-end-line="284" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p6-tempered-glass.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="285" column="0" lean-forward="false" selection-start-line="285" selection-start-column="0" selection-end-line="285" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p7-solar-led-postlight.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="286" column="0" lean-forward="false" selection-start-line="286" selection-start-column="0" selection-end-line="286" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p8-solar-barricade-light.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="315" column="13" lean-forward="false" selection-start-line="315" selection-start-column="0" selection-end-line="316" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p10-plastic-led-solar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="286" column="0" lean-forward="false" selection-start-line="286" selection-start-column="0" selection-end-line="286" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p11-frp-plastic-led.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="286" column="0" lean-forward="false" selection-start-line="286" selection-start-column="0" selection-end-line="286" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p12-frp-plastic-led.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="273" column="0" lean-forward="false" selection-start-line="273" selection-start-column="0" selection-end-line="273" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p9-aluminum-led-solar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="235" column="37" lean-forward="true" selection-start-line="235" selection-start-column="37" selection-end-line="235" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p13-solar-led-road.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="279" column="0" lean-forward="false" selection-start-line="279" selection-start-column="0" selection-end-line="279" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p13-solar-led-road - 副本.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="279" column="0" lean-forward="true" selection-start-line="279" selection-start-column="0" selection-end-line="279" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/index4/us_img1.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/index4/us_img4.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/heard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#li#4;n#nav#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="746" column="18" lean-forward="true" selection-start-line="746" selection-start-column="18" selection-end-line="746" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="90" column="30" lean-forward="false" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
           <folding />
         </state>
       </provider>
